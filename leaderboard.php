@@ -1,6 +1,6 @@
 <?php
 
-$db = mysql_connect("localhost", "akesterson", "fadmin");
+$db = mysql_connect("localhost", "akesterson", "LOLNOPASS");
 if ( !$db ) {
 	die("Unable to connect to mysql database");
 }
